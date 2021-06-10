@@ -1,0 +1,12 @@
+C:\Users\zheny\source\repos\AI_Lab3\AI_Lab3\bin\Debug\AI_Lab3.exe.config
+C:\Users\zheny\source\repos\AI_Lab3\AI_Lab3\bin\Debug\AI_Lab3.exe
+C:\Users\zheny\source\repos\AI_Lab3\AI_Lab3\bin\Debug\AI_Lab3.pdb
+C:\Users\zheny\source\repos\AI_Lab3\AI_Lab3\obj\Debug\AI_Lab3.Form1.resources
+C:\Users\zheny\source\repos\AI_Lab3\AI_Lab3\obj\Debug\AI_Lab3.Properties.Resources.resources
+C:\Users\zheny\source\repos\AI_Lab3\AI_Lab3\obj\Debug\AI_Lab3.csproj.GenerateResource.cache
+C:\Users\zheny\source\repos\AI_Lab3\AI_Lab3\obj\Debug\AI_Lab3.csproj.CoreCompileInputs.cache
+C:\Users\zheny\source\repos\AI_Lab3\AI_Lab3\obj\Debug\AI_Lab3.exe
+C:\Users\zheny\source\repos\AI_Lab3\AI_Lab3\obj\Debug\AI_Lab3.pdb
+C:\Users\zheny\source\repos\AI_Lab3\AI_Lab3\bin\Debug\AutoClosingMessageBox.dll
+C:\Users\zheny\source\repos\AI_Lab3\AI_Lab3\obj\Debug\AI_Lab3.csproj.CopyComplete
+C:\Users\zheny\source\repos\AI_Lab3\AI_Lab3\obj\Debug\AI_Lab3.csproj.AssemblyReference.cache
